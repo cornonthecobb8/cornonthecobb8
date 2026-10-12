@@ -1,4 +1,4 @@
-## Hi there 👋
+## See what I am currently working on/learning ↓
 
 <!--
 **cornonthecobb8/cornonthecobb8** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
