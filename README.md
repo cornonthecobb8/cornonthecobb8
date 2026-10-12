@@ -1,4 +1,12 @@
-## See what I am currently working on/learning ↓
+## What do I know?
+- Python
+- HTML/CSS
+- Lua
+
+## What am I learning?
+- C
+
+## ↓ Check out what I'm doing now ↓ 
 
 <!--
 **cornonthecobb8/cornonthecobb8** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
