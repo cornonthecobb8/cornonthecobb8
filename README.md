@@ -5,6 +5,7 @@
 
 ## What am I learning?
 - C
+- Rust
 
 ## ↓ Check out what I'm doing now ↓ 
 
